@@ -197,14 +197,14 @@ input[type="radio"] {
   grid-column: 2 / 3;
 }
 
-.field_ConfirmPassword input {
+.field_ConfirmPassword {
   position: relative;
 }
 
 .field_ConfirmPassword i {
   position: absolute;
-  left: 56rem;
-  top: 27rem;
+  right: 10px;
+  top: 6px;
 }
 
 /* Utility classes*/

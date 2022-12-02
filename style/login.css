@@ -198,14 +198,14 @@ input[type="radio"] {
   grid-column: 2 / 3;
 }
 
-.field_Password input {
+.field_Password {
   position: relative;
 }
 
 .field_Password i {
   position: absolute;
-  left: 56rem;
-  top: 24rem;
+  right: 10px;
+  top: 9px;
 }
 /* Utility classes*/
 .half {
